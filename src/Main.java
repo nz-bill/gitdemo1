@@ -8,4 +8,9 @@ public class Main {
 
 
     }
+
+
+    public void enFunktionTill(){
+
+    }
 }
