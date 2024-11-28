@@ -10,4 +10,8 @@ public class Main {
 
 
     }
+
+    public static void enFunktion(){
+        int y = 5;
+    }
 }
