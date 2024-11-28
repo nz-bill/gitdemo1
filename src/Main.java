@@ -6,12 +6,20 @@ public class Main {
 
  //       /codelicodeSystem.out.println("Hello world!");
 
-        int x = 3;
+      
 
 
     }
+
+
+
+    public static void enFunktionTill(){
+
+    }
+}
 
     public static void enFunktion(){
         int y = 5;
     }
 }
+
